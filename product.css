@@ -1,0 +1,23 @@
+<style>
+    body{
+        font-family: 'Abril Fatface', sans-serif;
+        font-size: 16px;
+        color: #838383;
+    }
+    .section-container{
+        display: flex;
+        justify-content: space-evenly;
+    }
+    h1{
+        font-size: 32px;
+        text-align: center;
+        color: black;
+    }
+    h2{
+        font-size: 20px;
+        text-align: center;
+        font-family: 'Signika Negative', sans-serif;
+        color: black;
+    }
+
+</style>
